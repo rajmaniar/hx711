@@ -1,5 +1,4 @@
 # Reading from an hx711 24-Bit ADC on a Raspberry Pi in Golang
-## 24-Bit Analog-to-Digital Converter (ADC) for Weigh Scales
 
 This is a simple package to read the value from the HX711 load cell amplifier like this one from [sparkfun](https://www.sparkfun.com/products/13879)
 
